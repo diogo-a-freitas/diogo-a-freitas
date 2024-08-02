@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi there ✌🏼
 <!--
 **diogo-a-freitas/diogo-a-freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
