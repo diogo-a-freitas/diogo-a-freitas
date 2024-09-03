@@ -1,5 +1,5 @@
 <h1 align="center">Hi there✌🏼, I'm Diogo</h1>
-<p align="left">I'm a Data Scientist with a strong background in operation management and a proven track record in process improvement and standardization. <br><br> Recent graduate from Le Wagon's intensive Data Science & AI Bootcamp, I am eager to apply my analytical, data-driven, and solution-oriented skills to support operational excellence in tech, on-demand services, mental health, and the music industries.</p>
+<p align="left">I'm a Data Analyst with a strong background in operation management and a proven track record in process improvement and standardization. <br><br> Recent graduate from Le Wagon's intensive Data Science & AI Bootcamp, I am eager to apply my analytical, data-driven, and solution-oriented skills to support operational excellence in tech, on-demand services, mental health, and the music industries.</p>
 <ul>
   <li>💡 I have a <b>primary interest</b> in NLP modelling and its possible applications in Psychology and will further develop my knowledge academically 🎓</li>
   <li><b>Personal Interests</b> - Anime, Series, Horror Movies and a special love for music 🎧</li>
